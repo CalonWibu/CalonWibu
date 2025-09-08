@@ -179,7 +179,6 @@
 
 <!-- Footer dengan animasi -->
 <div align="center">
-  ![snake gif](https://github.com/CalonWibu/CalonWibu/blob/output/github-snake-dark.svg)
   
   <p> 
     <img src="https://komarev.com/ghpvc/?username=CalonWibu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
@@ -188,3 +187,4 @@
   
   <p>⭐️ From <a href="https://github.com/CalonWibu">CalonWibu</a> with ❤️</p>
 </div>
+  ![snake gif](https://github.com/CalonWibu/CalonWibu/blob/output/github-snake-dark.svg)
