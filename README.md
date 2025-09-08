@@ -179,8 +179,7 @@
 
 <!-- Footer dengan animasi -->
 <div align="center">
-  
-  ![Snake animation](https://github.com/CalonWibu/CalonWibu/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/CalonWibu/CalonWibu/blob/output/github-snake-dark.svg)
   
   <p> 
     <img src="https://komarev.com/ghpvc/?username=CalonWibu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
