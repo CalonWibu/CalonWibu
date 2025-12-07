@@ -27,9 +27,7 @@
 </div>
 
 <!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalonWibu&theme=radical&animate=true" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -80,30 +78,6 @@
 
 ---
 
-<!-- Bagian Project Highlights -->
-<h2 align="center">🌟 Project Highlights</h2>
-
-<div align="center">
-  
-  <!-- Project 1 -->
-  <a href="https://github.com/CalonWibu/anime-discovery">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CalonWibu&repo=anime-discovery&theme=radical" />
-  </a>
-  
-  <!-- Project 2 -->
-  <a href="https://github.com/CalonWibu/css-art-gallery">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CalonWibu&repo=css-art-gallery&theme=radical" />
-  </a>
-  
-  <!-- Project 3 -->
-  <a href="https://github.com/CalonWibu/wibu-bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CalonWibu&repo=wibu-bot&theme=radical" />
-  </a>
-  
-</div>
-
----
-
 <!-- Bagian GitHub Trophy -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -127,31 +101,6 @@
   <img src="https://github.com/CalonWibu/CalonWibu/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
 
----
-
-<!-- Bagian Connect dengan Saya -->
-<h2 align="center">📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://twitter.com/CalonWibu">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/CalonWibu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/CalonWibu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/CalonWibu">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://dev.to/CalonWibu">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://medium.com/@CalonWibu">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
 
 ---
 
