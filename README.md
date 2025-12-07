@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237A3DC9&size=40&center=true&vCenter=true&width=450&lines=CalonWibu;Anime+Lover;Full+Stack+Developer;Open+Source+Enthusiast" alt="Headline"/>
 </p>
 
-<!-- Banner dengan efek animasi -->
 <div align="center">
   <img src="https://github.com/CalonWibu/CalonWibu/blob/main/assets/banner.gif?raw=true" alt="Banner" width="100%"/>
 </div>
@@ -179,4 +178,3 @@
   
   <p>⭐️ From <a href="https://github.com/CalonWibu">CalonWibu</a> with ❤️</p>
 </div>
-  ![snake gif](https://github.com/CalonWibu/CalonWibu/blob/output/github-snake-dark.svg)
